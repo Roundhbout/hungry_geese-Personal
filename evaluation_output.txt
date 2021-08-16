@@ -1,0 +1,205 @@
+greedy_agent.py vs. greedy_expectimax_agent.py
+
+greedy_agent average rewards: 7549.61
+greedy_expectimax_agent average rewards: 7561.28
+--------------------------------
+greedy_agent.py vs. astar_agent.py
+
+greedy_agent average rewards: 8552.03
+astar_agent average rewards: 8570.54
+--------------------------------
+greedy_agent.py vs. astar_expectimax_agent.py
+
+greedy_agent average rewards: 7810.77
+astar_expectimax_agent average rewards: 7827.58
+--------------------------------
+greedy_agent.py vs. ucs_agent.py
+
+greedy_agent average rewards: 7707.83
+ucs_agent average rewards: 7720.2
+--------------------------------
+greedy_agent.py vs. ucs_expectimax_agent.py
+
+greedy_agent average rewards: 7683.11
+ucs_expectimax_agent average rewards: 7715.91
+--------------------------------
+greedy_agent.py vs. simple_towards_agent.py
+
+greedy_agent average rewards: 1540.43
+simple_towards_agent average rewards: 1440.24
+--------------------------------
+greedy_agent.py vs. random_agent.py
+
+greedy_agent average rewards: 641.0
+random_agent average rewards: 540.11
+--------------------------------
+greedy_expectimax_agent.py vs. astar_agent.py
+
+greedy_expectimax_agent average rewards: 8615.73
+astar_agent average rewards: 8639.03
+--------------------------------
+greedy_expectimax_agent.py vs. astar_expectimax_agent.py
+
+greedy_expectimax_agent average rewards: 7450.42
+astar_expectimax_agent average rewards: 7460.12
+--------------------------------
+greedy_expectimax_agent.py vs. ucs_agent.py
+
+greedy_expectimax_agent average rewards: 8499.83
+ucs_agent average rewards: 8507.45
+--------------------------------
+greedy_expectimax_agent.py vs. ucs_expectimax_agent.py
+
+greedy_expectimax_agent average rewards: 7890.78
+ucs_expectimax_agent average rewards: 7908.93
+--------------------------------
+greedy_expectimax_agent.py vs. simple_towards_agent.py
+
+greedy_expectimax_agent average rewards: 1530.5
+simple_towards_agent average rewards: 1428.96
+--------------------------------
+greedy_expectimax_agent.py vs. random_agent.py
+
+greedy_expectimax_agent average rewards: 575.89
+random_agent average rewards: 475.09
+--------------------------------
+astar_agent.py vs. astar_expectimax_agent.py
+
+astar_agent average rewards: 9037.8
+astar_expectimax_agent average rewards: 9025.7
+--------------------------------
+astar_agent.py vs. ucs_agent.py
+
+astar_agent average rewards: 9591.31
+ucs_agent average rewards: 9587.79
+--------------------------------
+astar_agent.py vs. ucs_expectimax_agent.py
+
+astar_agent average rewards: 9144.33
+ucs_expectimax_agent average rewards: 9132.29
+--------------------------------
+astar_agent.py vs. simple_towards_agent.py
+
+astar_agent average rewards: 1857.09
+simple_towards_agent average rewards: 1756.4
+--------------------------------
+astar_agent.py vs. random_agent.py
+
+astar_agent average rewards: 560.79
+random_agent average rewards: 459.07
+--------------------------------
+astar_expectimax_agent.py vs. ucs_agent.py
+
+astar_expectimax_agent average rewards: 8625.89
+ucs_agent average rewards: 8631.58
+--------------------------------
+astar_expectimax_agent.py vs. ucs_expectimax_agent.py
+
+astar_expectimax_agent average rewards: 7994.66
+ucs_expectimax_agent average rewards: 7993.52
+--------------------------------
+astar_expectimax_agent.py vs. simple_towards_agent.py
+
+astar_expectimax_agent average rewards: 1728.99
+simple_towards_agent average rewards: 1628.28
+--------------------------------
+astar_expectimax_agent.py vs. random_agent.py
+
+astar_expectimax_agent average rewards: 597.86
+random_agent average rewards: 497.07
+--------------------------------
+ucs_agent.py vs. ucs_expectimax_agent.py
+
+ucs_agent average rewards: 8861.39
+ucs_expectimax_agent average rewards: 8856.22
+--------------------------------
+ucs_agent.py vs. simple_towards_agent.py
+
+ucs_agent average rewards: 1637.73
+simple_towards_agent average rewards: 1543.22
+--------------------------------
+ucs_agent.py vs. random_agent.py
+
+ucs_agent average rewards: 599.0
+random_agent average rewards: 498.1
+--------------------------------
+ucs_expectimax_agent.py vs. simple_towards_agent.py
+
+ucs_expectimax_agent average rewards: 1539.62
+simple_towards_agent average rewards: 1439.22
+--------------------------------
+ucs_expectimax_agent.py vs. random_agent.py
+
+ucs_expectimax_agent average rewards: 585.82
+random_agent average rewards: 485.11
+--------------------------------
+simple_towards_agent.py vs. random_agent.py
+
+simple_towards_agent average rewards: 521.46
+random_agent average rewards: 435.04
+--------------------------------
+astar_agent.py vs. astar_expectimax_agent.py 12.099999999998545
+astar_agent.py vs. greedy_agent.py 18.51000000000022
+astar_agent.py vs. greedy_expectimax_agent.py 23.30000000000109
+astar_agent.py vs. random_agent.py 101.71999999999997
+astar_agent.py vs. simple_towards_agent.py 100.68999999999983
+astar_agent.py vs. ucs_agent.py 3.5199999999986176
+astar_agent.py vs. ucs_expectimax_agent.py 12.039999999999054
+astar_expectimax_agent.py vs. astar_agent.py -12.099999999998545
+astar_expectimax_agent.py vs. greedy_agent.py 16.80999999999949
+astar_expectimax_agent.py vs. greedy_expectimax_agent.py 9.699999999999818
+astar_expectimax_agent.py vs. random_agent.py 100.79000000000002
+astar_expectimax_agent.py vs. simple_towards_agent.py 100.71000000000004
+astar_expectimax_agent.py vs. ucs_agent.py -5.690000000000509
+astar_expectimax_agent.py vs. ucs_expectimax_agent.py 1.139999999999418
+greedy_agent.py vs. astar_agent.py -18.51000000000022
+greedy_agent.py vs. astar_expectimax_agent.py -16.80999999999949
+greedy_agent.py vs. greedy_expectimax_agent.py -11.670000000000073
+greedy_agent.py vs. random_agent.py 100.88999999999999
+greedy_agent.py vs. simple_towards_agent.py 100.19000000000005
+greedy_agent.py vs. ucs_agent.py -12.36999999999989
+greedy_agent.py vs. ucs_expectimax_agent.py -32.80000000000018
+greedy_expectimax_agent.py vs. astar_agent.py -23.30000000000109
+greedy_expectimax_agent.py vs. astar_expectimax_agent.py -9.699999999999818
+greedy_expectimax_agent.py vs. greedy_agent.py 11.670000000000073
+greedy_expectimax_agent.py vs. random_agent.py 100.80000000000001
+greedy_expectimax_agent.py vs. simple_towards_agent.py 101.53999999999996
+greedy_expectimax_agent.py vs. ucs_agent.py -7.6200000000008
+greedy_expectimax_agent.py vs. ucs_expectimax_agent.py -18.150000000000546
+random_agent.py vs. astar_agent.py -101.71999999999997
+random_agent.py vs. astar_expectimax_agent.py -100.79000000000002
+random_agent.py vs. greedy_agent.py -100.88999999999999
+random_agent.py vs. greedy_expectimax_agent.py -100.80000000000001
+random_agent.py vs. simple_towards_agent.py -86.42000000000002
+random_agent.py vs. ucs_agent.py -100.89999999999998
+random_agent.py vs. ucs_expectimax_agent.py -100.71000000000004
+simple_towards_agent.py vs. astar_agent.py -100.68999999999983
+simple_towards_agent.py vs. astar_expectimax_agent.py -100.71000000000004
+simple_towards_agent.py vs. greedy_agent.py -100.19000000000005
+simple_towards_agent.py vs. greedy_expectimax_agent.py -101.53999999999996
+simple_towards_agent.py vs. random_agent.py 86.42000000000002
+simple_towards_agent.py vs. ucs_agent.py -94.50999999999999
+simple_towards_agent.py vs. ucs_expectimax_agent.py -100.39999999999986
+ucs_agent.py vs. astar_agent.py -3.5199999999986176
+ucs_agent.py vs. astar_expectimax_agent.py 5.690000000000509
+ucs_agent.py vs. greedy_agent.py 12.36999999999989
+ucs_agent.py vs. greedy_expectimax_agent.py 7.6200000000008
+ucs_agent.py vs. random_agent.py 100.89999999999998
+ucs_agent.py vs. simple_towards_agent.py 94.50999999999999
+ucs_agent.py vs. ucs_expectimax_agent.py 5.170000000000073
+ucs_expectimax_agent.py vs. astar_agent.py -12.039999999999054
+ucs_expectimax_agent.py vs. astar_expectimax_agent.py -1.139999999999418
+ucs_expectimax_agent.py vs. greedy_agent.py 32.80000000000018
+ucs_expectimax_agent.py vs. greedy_expectimax_agent.py 18.150000000000546
+ucs_expectimax_agent.py vs. random_agent.py 100.71000000000004
+ucs_expectimax_agent.py vs. simple_towards_agent.py 100.39999999999986
+ucs_expectimax_agent.py vs. ucs_agent.py -5.170000000000073
+
+
+[-]
+
+
+
+
+
+
